@@ -1,2 +1,2 @@
 # GR-Net
-绿色屋顶语义分割模型
+Green Roof Semantic Segmentation Model

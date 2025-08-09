@@ -16,7 +16,7 @@ This repo holds the code of GR-Net: Segmentation of Green Roofs in High-resoluti
 |   |-- masks_building_test
 |   |-- masks_gr_test
 |   |-- ndvi_test
-`-- Train
+|-- Train
     |-- imgs_bgrn_test
     |-- masks_building_test
     |-- masks_gr_test
